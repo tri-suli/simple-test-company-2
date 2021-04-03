@@ -1,4 +1,4 @@
-## Simple Test [company-1]
+## Simple Test [company-2]
 
 Simple test and interview project
 
